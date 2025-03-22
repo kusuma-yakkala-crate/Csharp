@@ -23,12 +23,12 @@ namespace Shopfy.Shopify.Repo
             return products;
         }
 
-        //}
+   
 
         public async Task<Products> GetProductById(int id) => await context.Products.FindAsync(id);
         public async Task AddProduct(Products product)
         {
-            // Check if the provided SubcategoryId exists
+        
             var subcategoryExists = await context.SubCategories.AnyAsync(s => s.SubCategoriesId == product.SubCategoriesId);
             if (!subcategoryExists)
             {
@@ -46,14 +46,41 @@ namespace Shopfy.Shopify.Repo
 
         //public Products InsertProductsFunction(Products product)
         //{
-         
+
         //    var addedProduct = context.Products.Add(product);
-  
+
         //        context.SaveChanges();
-     
+
         //    return addedProduct;
         //}
 
 
+        public async Task<IEnumerable<Products>> GetTrendingProducts()
+        {
+            return await context.Products
+                .OrderByDescending(p => p.SalesCount)
+                .Take(10)
+                .ToListAsync();
+        }
+        public async Task<IEnumerable<Products>> GetNewArrivalProducts()
+        {
+            DateTime thirtyDaysAgo = DateTime.UtcNow.AddDays(-30);
+            return await context.Products
+                .Where(p => p.CreatedAt >= thirtyDaysAgo)
+                .OrderByDescending(p => p.CreatedAt)
+                .Take(10)
+                .ToListAsync();
+        }
+
+        public async Task<IEnumerable<Products>> SearchProducts(string searchTerm)
+        {
+            if (string.IsNullOrWhiteSpace(searchTerm))
+                return await context.Products.ToListAsync(); 
+            return await context.Products
+                .Where(p => p.productName.Contains(searchTerm) ||
+                            p.discription.Contains(searchTerm) ||
+                            p.SubCategories.SubCategoriesName.Contains(searchTerm))
+                .ToListAsync();
+        }
     }
 }

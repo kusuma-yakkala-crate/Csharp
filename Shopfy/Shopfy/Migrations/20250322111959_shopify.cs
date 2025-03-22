@@ -32,7 +32,8 @@ namespace Shopfy.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     PhoneNumber = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Email = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    Email = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    PasswordHash = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -150,6 +151,7 @@ namespace Shopfy.Migrations
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     productName = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    ProductTittle = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Image = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     star = table.Column<float>(type: "real", nullable: false),
                     NewPrice = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
@@ -157,7 +159,11 @@ namespace Shopfy.Migrations
                     brand = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     stock = table.Column<int>(type: "int", nullable: false),
                     discription = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    SubCategoriesId = table.Column<int>(type: "int", nullable: false)
+                    Reviewdiscription = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    SalesCount = table.Column<int>(type: "int", nullable: false),
+                    CreatedAt = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    SubCategoriesId = table.Column<int>(type: "int", nullable: false),
+                    SubCategoriesName = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {

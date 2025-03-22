@@ -12,7 +12,7 @@ using Shopfy;
 namespace Shopfy.Migrations
 {
     [DbContext(typeof(shopifydbcontext))]
-    [Migration("20250321100559_shopify")]
+    [Migration("20250322111959_shopify")]
     partial class shopify
     {
         /// <inheritdoc />
@@ -142,6 +142,10 @@ namespace Shopfy.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("PasswordHash")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("PhoneNumber")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -248,6 +252,9 @@ namespace Shopfy.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("datetime2");
+
                     b.Property<string>("Image")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -255,8 +262,23 @@ namespace Shopfy.Migrations
                     b.Property<decimal>("NewPrice")
                         .HasColumnType("decimal(18,2)");
 
+                    b.Property<string>("ProductTittle")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Reviewdiscription")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("SalesCount")
+                        .HasColumnType("int");
+
                     b.Property<int>("SubCategoriesId")
                         .HasColumnType("int");
+
+                    b.Property<string>("SubCategoriesName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("brand")
                         .IsRequired()

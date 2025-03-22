@@ -36,7 +36,8 @@ namespace Shopfy.Shopify.Repo
                
                 Name = customerDto.Name,
                 PhoneNumber = customerDto.PhoneNumber,
-                Email = customerDto.Email
+                Email = customerDto.Email,
+                PasswordHash = customerDto.PasswordHash
             };
 
           

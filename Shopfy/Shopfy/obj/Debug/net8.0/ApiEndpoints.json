@@ -125,6 +125,11 @@
         "IsRequired": false
       },
       {
+        "Name": "ProductTittle",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
         "Name": "image",
         "Type": "System.String",
         "IsRequired": false
@@ -160,8 +165,28 @@
         "IsRequired": false
       },
       {
+        "Name": "Reviewdiscription",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "SalesCount",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "CreatedAt",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
         "Name": "SubCategoriesId",
         "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "SubCategoriesName",
+        "Type": "System.String",
         "IsRequired": false
       }
     ],
@@ -207,6 +232,42 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Shopfy.Controllers.ProductsController",
+    "Method": "GetNewArrivalProducts",
+    "RelativePath": "api/Products/new-arrivals",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Shopfy.Controllers.ProductsController",
+    "Method": "SearchProducts",
+    "RelativePath": "api/Products/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Shopfy.Controllers.ProductsController",
+    "Method": "GetTrendingProducts",
+    "RelativePath": "api/Products/trending",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   },
   {
