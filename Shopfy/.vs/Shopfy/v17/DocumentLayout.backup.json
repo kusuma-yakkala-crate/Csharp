@@ -1,0 +1,1551 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\shopify.repo\\productsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\shopify.repo\\productsrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\shopify.services\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\shopify.services\\productsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\shopfydomain\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\shopfydomain\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\controllers\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\controllers\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\controllers\\subcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\controllers\\subcategoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\shopfydomain\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\shopfydomain\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\shopify.repo\\subcategoriesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\shopify.repo\\subcategoriesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\shopify.services\\subcategoriesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\shopify.services\\subcategoriesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\shopify.services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\shopify.services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\shopify.repo\\categoriesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\shopify.repo\\categoriesrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\shopify.repo\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\shopify.repo\\customerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\shopfydomain\\subcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\shopfydomain\\subcategories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\shopify.services\\categoriesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\shopify.services\\categoriesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\shopfydomain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\shopfydomain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\nztizvzz.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\nztizvzz.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250321100559_shopify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250321100559_shopify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\shopifydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\shopifydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\shopfydomain\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\shopfydomain\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\zxwyjcwc.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\zxwyjcwc.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\shopfydomain\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\shopfydomain\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\shopfydomain\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\shopfydomain\\wishlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\shopfydomain\\wishlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\shopfydomain\\wishlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\shopfydomain\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\shopfydomain\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\shopfydomain\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\shopfydomain\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\zseqv5wq.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\zseqv5wq.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320112955_shopfitysS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250320112955_shopfitysS.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\e432r0du.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\e432r0du.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320112753_shopfitys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250320112753_shopfitys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\spu3kepd.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\spu3kepd.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320112648_shopfitys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250320112648_shopfitys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\shopfydomain\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\shopfydomain\\orderitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\shopfydomain\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\shopfydomain\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\shopfydomain\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\shopfydomain\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\r4wnql03.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\r4wnql03.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320112437_shopfitys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250320112437_shopfitys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\bzm3rumg.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\bzm3rumg.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\kejczzb3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\kejczzb3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320112104_shopfitys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250320112104_shopfitys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\wirixbzy.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\wirixbzy.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\o4bq0qp3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\o4bq0qp3.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320105027_shopify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250320105027_shopify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\ejut04wn.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\ejut04wn.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320104545_shopifys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250320104545_shopifys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\bokdd2ie.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\bokdd2ie.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320104405_shopifys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250320104405_shopifys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Shopify_EfCore/True/SqlTable/dbo.Customer.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\ptkedr0p.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\ptkedr0p.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320102815_shopifys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250320102815_shopifys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\mxvmoooy.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\mxvmoooy.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320102644_shopifys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250320102644_shopifys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\ukef3wfb.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\ukef3wfb.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320102318_shopifys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250320102318_shopifys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320101458_shopify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250320101458_shopify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\vah4t10o.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\vah4t10o.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320093924_shopify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250320093924_shopify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|c:\\users\\ctuser\\source\\repos\\shopfy\\shopfy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D50A05-7BFC-4A1E-9BC0-16A1BEA78F25}|Shopfy\\Shopfy.csproj|solutionrelative:shopfy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Shopify_EfCore/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\pykjrow2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\pykjrow2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\5kbhi25b.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\5kbhi25b.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\3bmlme15.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\3bmlme15.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319110845_SHOPIFYWebsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250319110845_SHOPIFYWebsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319084800_shopifywebsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250319084800_shopifywebsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\0szuscru.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\0szuscru.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319084644_shopifywebsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250319084644_shopifywebsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\u4duylqn.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\u4duylqn.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\hs44emfe.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\hs44emfe.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\0fwrhikb.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\0fwrhikb.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319082245_shopifywebsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250319082245_shopifywebsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\x5vl5ly0.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\x5vl5ly0.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319082051_shopifywebsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250319082051_shopifywebsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\ojhxkovz.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\ojhxkovz.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\vfhbtbhf.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\vfhbtbhf.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\pauuru1o.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\pauuru1o.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319075758_ShopifyWebsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250319075758_ShopifyWebsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\24d5lgil.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\24d5lgil.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\acrd1tiy.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\acrd1tiy.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319074524_ShopifyWebsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250319074524_ShopifyWebsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\pzntsyt5.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\pzntsyt5.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319074222_ShopifyWebsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250319074222_ShopifyWebsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\uwkqos2c.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\uwkqos2c.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319073752_ShopifyWebsitE.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250319073752_ShopifyWebsitE.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\ry0vjbkk.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\ry0vjbkk.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319073204_ShopifyWebsit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250319073204_ShopifyWebsit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\y0ughv5o.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\y0ughv5o.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319072922_ShopifyWebsitesss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250319072922_ShopifyWebsitesss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\3j15qs3i.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\3j15qs3i.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319072016_ShopifyWebsites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250319072016_ShopifyWebsites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\pi4wkjpn.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\pi4wkjpn.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319071239_ShopifyWebsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250319071239_ShopifyWebsite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\2vkoiu53.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\2vkoiu53.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319065207_shopify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\Migrations\\20250319065207_shopify.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\ybg2fdme.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\ybg2fdme.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\2eovwzhc.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\2eovwzhc.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\nztizvzz.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Shopfy\\obj\\Debug\\net8.0\\nztizvzz.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubCategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Controllers\\SubCategoriesController.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Controllers\\SubCategoriesController.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Controllers\\SubCategoriesController.cs",
+              "RelativeToolTip": "Shopfy\\Controllers\\SubCategoriesController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:03:56.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Controllers\\Products.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Controllers\\Products.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Controllers\\Products.cs",
+              "RelativeToolTip": "Shopfy\\Controllers\\Products.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAzwCAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:25:17.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriesRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Shopify.Repo\\CategoriesRepo.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Shopify.Repo\\CategoriesRepo.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Shopify.Repo\\CategoriesRepo.cs",
+              "RelativeToolTip": "Shopfy\\Shopify.Repo\\CategoriesRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T05:01:30.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Shopify.Repo\\ProductsRepo.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Shopify.Repo\\ProductsRepo.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Shopify.Repo\\ProductsRepo.cs",
+              "RelativeToolTip": "Shopfy\\Shopify.Repo\\ProductsRepo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:15:39.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsService.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Shopify.Services\\ProductsService.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Shopify.Services\\ProductsService.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Shopify.Services\\ProductsService.cs",
+              "RelativeToolTip": "Shopfy\\Shopify.Services\\ProductsService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:19:15.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Shopify.Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Shopify.Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Shopify.Services\\CustomerService.cs",
+              "RelativeToolTip": "Shopfy\\Shopify.Services\\CustomerService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:19:12.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubCategoriesServices.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Shopify.Services\\SubCategoriesServices.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Shopify.Services\\SubCategoriesServices.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Shopify.Services\\SubCategoriesServices.cs",
+              "RelativeToolTip": "Shopfy\\Shopify.Services\\SubCategoriesServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:56:08.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SubCategoriesRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Shopify.Repo\\SubCategoriesRepo.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Shopify.Repo\\SubCategoriesRepo.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Shopify.Repo\\SubCategoriesRepo.cs",
+              "RelativeToolTip": "Shopfy\\Shopify.Repo\\SubCategoriesRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T08:51:11.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\ShopfyDomain\\Products.cs",
+              "RelativeDocumentMoniker": "Shopfy\\ShopfyDomain\\Products.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\ShopfyDomain\\Products.cs",
+              "RelativeToolTip": "Shopfy\\ShopfyDomain\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:54:00.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\ShopfyDomain\\Payment.cs",
+              "RelativeDocumentMoniker": "Shopfy\\ShopfyDomain\\Payment.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\ShopfyDomain\\Payment.cs",
+              "RelativeToolTip": "Shopfy\\ShopfyDomain\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:31:43.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Shopify.Repo\\CustomerRepo.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Shopify.Repo\\CustomerRepo.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Shopify.Repo\\CustomerRepo.cs",
+              "RelativeToolTip": "Shopfy\\Shopify.Repo\\CustomerRepo.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwCsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:15:30.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Shopfy\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:25:13.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Shopfy\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:17:46.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SubCategories.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\ShopfyDomain\\SubCategories.cs",
+              "RelativeDocumentMoniker": "Shopfy\\ShopfyDomain\\SubCategories.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\ShopfyDomain\\SubCategories.cs",
+              "RelativeToolTip": "Shopfy\\ShopfyDomain\\SubCategories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T12:08:09.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\ShopfyDomain\\Customer.cs",
+              "RelativeDocumentMoniker": "Shopfy\\ShopfyDomain\\Customer.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\ShopfyDomain\\Customer.cs",
+              "RelativeToolTip": "Shopfy\\ShopfyDomain\\Customer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:52:31.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoriesServices.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Shopify.Services\\CategoriesServices.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Shopify.Services\\CategoriesServices.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Shopify.Services\\CategoriesServices.cs",
+              "RelativeToolTip": "Shopfy\\Shopify.Services\\CategoriesServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T05:53:43.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Categories.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\ShopfyDomain\\Categories.cs",
+              "RelativeDocumentMoniker": "Shopfy\\ShopfyDomain\\Categories.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\ShopfyDomain\\Categories.cs",
+              "RelativeToolTip": "Shopfy\\ShopfyDomain\\Categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T06:11:29.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250321100559_shopify.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250321100559_shopify.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250321100559_shopify.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250321100559_shopify.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250321100559_shopify.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T10:05:59.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "nztizvzz.sql ",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\nztizvzz.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\nztizvzz.sql",
+              "ToolTip": "nztizvzz.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-21T10:06:10.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "shopifydbcontext.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\shopifydbcontext.cs",
+              "RelativeDocumentMoniker": "Shopfy\\shopifydbcontext.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\shopifydbcontext.cs",
+              "RelativeToolTip": "Shopfy\\shopifydbcontext.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwFYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T05:58:17.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\ShopfyDomain\\Review.cs",
+              "RelativeDocumentMoniker": "Shopfy\\ShopfyDomain\\Review.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\ShopfyDomain\\Review.cs",
+              "RelativeToolTip": "Shopfy\\ShopfyDomain\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:36:52.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "zxwyjcwc.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\zxwyjcwc.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\zxwyjcwc.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\zxwyjcwc.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\zxwyjcwc.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-20T11:32:48.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerDto.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\dTO\\CustomerDto.cs",
+              "RelativeDocumentMoniker": "Shopfy\\dTO\\CustomerDto.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\dTO\\CustomerDto.cs",
+              "RelativeToolTip": "Shopfy\\dTO\\CustomerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:35:10.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Wishlist.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\ShopfyDomain\\Wishlist.cs",
+              "RelativeDocumentMoniker": "Shopfy\\ShopfyDomain\\Wishlist.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\ShopfyDomain\\Wishlist.cs",
+              "RelativeToolTip": "Shopfy\\ShopfyDomain\\Wishlist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:32:23.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WishlistItem.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\ShopfyDomain\\WishlistItem.cs",
+              "RelativeDocumentMoniker": "Shopfy\\ShopfyDomain\\WishlistItem.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\ShopfyDomain\\WishlistItem.cs",
+              "RelativeToolTip": "Shopfy\\ShopfyDomain\\WishlistItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T11:32:52.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\ShopfyDomain\\Orders.cs",
+              "RelativeDocumentMoniker": "Shopfy\\ShopfyDomain\\Orders.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\ShopfyDomain\\Orders.cs",
+              "RelativeToolTip": "Shopfy\\ShopfyDomain\\Orders.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:06:14.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\ShopfyDomain\\Address.cs",
+              "RelativeDocumentMoniker": "Shopfy\\ShopfyDomain\\Address.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\ShopfyDomain\\Address.cs",
+              "RelativeToolTip": "Shopfy\\ShopfyDomain\\Address.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:30:21.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "zseqv5wq.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\zseqv5wq.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\zseqv5wq.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\zseqv5wq.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\zseqv5wq.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-20T11:30:00.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250320112955_shopfitysS.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320112955_shopfitysS.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250320112955_shopfitysS.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320112955_shopfitysS.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250320112955_shopfitysS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:29:55.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "e432r0du.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\e432r0du.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\e432r0du.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\e432r0du.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\e432r0du.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-20T11:28:03.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250320112753_shopfitys.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320112753_shopfitys.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250320112753_shopfitys.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320112753_shopfitys.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250320112753_shopfitys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:27:53.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Shopfy\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\WeatherForecast.cs",
+              "RelativeToolTip": "Shopfy\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:27:14.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "spu3kepd.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\spu3kepd.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\spu3kepd.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\spu3kepd.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\spu3kepd.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-20T11:26:59.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250320112648_shopfitys.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320112648_shopfitys.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250320112648_shopfitys.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320112648_shopfitys.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250320112648_shopfitys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:26:48.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrderItems.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\ShopfyDomain\\OrderItems.cs",
+              "RelativeDocumentMoniker": "Shopfy\\ShopfyDomain\\OrderItems.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\ShopfyDomain\\OrderItems.cs",
+              "RelativeToolTip": "Shopfy\\ShopfyDomain\\OrderItems.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:05:59.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\ShopfyDomain\\CartItem.cs",
+              "RelativeDocumentMoniker": "Shopfy\\ShopfyDomain\\CartItem.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\ShopfyDomain\\CartItem.cs",
+              "RelativeToolTip": "Shopfy\\ShopfyDomain\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:35:07.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\ShopfyDomain\\Cart.cs",
+              "RelativeDocumentMoniker": "Shopfy\\ShopfyDomain\\Cart.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\ShopfyDomain\\Cart.cs",
+              "RelativeToolTip": "Shopfy\\ShopfyDomain\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T09:34:32.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "r4wnql03.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\r4wnql03.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\r4wnql03.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\r4wnql03.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\r4wnql03.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-20T11:24:44.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20250320112437_shopfitys.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320112437_shopfitys.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250320112437_shopfitys.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320112437_shopfitys.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250320112437_shopfitys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:24:37.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "bzm3rumg.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\bzm3rumg.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\bzm3rumg.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\bzm3rumg.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\bzm3rumg.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-20T11:23:16.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "kejczzb3.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\kejczzb3.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\kejczzb3.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\kejczzb3.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\kejczzb3.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-20T11:21:18.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250320112104_shopfitys.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320112104_shopfitys.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250320112104_shopfitys.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320112104_shopfitys.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250320112104_shopfitys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:21:04.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "wirixbzy.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\wirixbzy.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\wirixbzy.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\wirixbzy.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\wirixbzy.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-20T11:18:41.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "o4bq0qp3.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\o4bq0qp3.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\o4bq0qp3.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\o4bq0qp3.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\o4bq0qp3.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-20T10:50:40.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250320105027_shopify.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320105027_shopify.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250320105027_shopify.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320105027_shopify.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250320105027_shopify.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:50:27.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20250320104405_shopifys.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320104405_shopifys.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250320104405_shopifys.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320104405_shopifys.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250320104405_shopifys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:44:05.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "bokdd2ie.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\bokdd2ie.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\bokdd2ie.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\bokdd2ie.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\bokdd2ie.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-20T10:44:19.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250320104545_shopifys.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320104545_shopifys.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250320104545_shopifys.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320104545_shopifys.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250320104545_shopifys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:45:46.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ejut04wn.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\ejut04wn.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\ejut04wn.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\ejut04wn.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\ejut04wn.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-20T10:47:41.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "dbo.Customer.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Shopify_EfCore/True/SqlTable/dbo.Customer.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Shopify_EfCore/True/SqlTable/dbo.Customer.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-20T10:09:19.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20250320101458_shopify.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320101458_shopify.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250320101458_shopify.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320101458_shopify.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250320101458_shopify.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:14:58.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20250320102318_shopifys.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320102318_shopifys.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250320102318_shopifys.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320102318_shopifys.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250320102318_shopifys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:23:18.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ukef3wfb.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\ukef3wfb.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\ukef3wfb.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\ukef3wfb.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\ukef3wfb.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-20T10:23:31.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "20250320102644_shopifys.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320102644_shopifys.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250320102644_shopifys.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320102644_shopifys.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250320102644_shopifys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:26:44.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "mxvmoooy.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\mxvmoooy.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\mxvmoooy.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\mxvmoooy.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\mxvmoooy.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-20T10:26:50.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20250320102815_shopifys.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320102815_shopifys.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250320102815_shopifys.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320102815_shopifys.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250320102815_shopifys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:28:15.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ptkedr0p.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\ptkedr0p.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\ptkedr0p.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\ptkedr0p.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\ptkedr0p.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-20T10:28:23.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20250320093924_shopify.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320093924_shopify.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250320093924_shopify.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250320093924_shopify.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250320093924_shopify.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:39:24.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "vah4t10o.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\vah4t10o.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\vah4t10o.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\vah4t10o.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\vah4t10o.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-20T09:39:44.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Program.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Program.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Program.cs",
+              "RelativeToolTip": "Shopfy\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:34:07.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "pykjrow2.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\pykjrow2.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\pykjrow2.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\pykjrow2.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\pykjrow2.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-19T12:05:10.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "dbo.Products.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Shopify_EfCore/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Shopify_EfCore/True/SqlTable/dbo.Products.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-19T10:50:05.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "3bmlme15.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\3bmlme15.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\3bmlme15.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\3bmlme15.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\3bmlme15.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-19T11:08:52.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "5kbhi25b.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\5kbhi25b.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\5kbhi25b.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\5kbhi25b.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\5kbhi25b.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-19T11:11:27.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20250319110845_SHOPIFYWebsite.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319110845_SHOPIFYWebsite.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250319110845_SHOPIFYWebsite.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319110845_SHOPIFYWebsite.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250319110845_SHOPIFYWebsite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:08:45.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "u4duylqn.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\u4duylqn.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\u4duylqn.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\u4duylqn.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\u4duylqn.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-19T08:41:15.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20250319084644_shopifywebsite.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319084644_shopifywebsite.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250319084644_shopifywebsite.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319084644_shopifywebsite.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250319084644_shopifywebsite.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:46:45.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "0szuscru.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\0szuscru.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\0szuscru.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\0szuscru.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\0szuscru.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-19T08:46:51.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20250319084800_shopifywebsite.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319084800_shopifywebsite.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250319084800_shopifywebsite.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319084800_shopifywebsite.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250319084800_shopifywebsite.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:48:00.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "hs44emfe.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\hs44emfe.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\hs44emfe.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\hs44emfe.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\hs44emfe.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-19T08:31:14.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "0fwrhikb.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\0fwrhikb.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\0fwrhikb.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\0fwrhikb.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\0fwrhikb.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-19T08:22:53.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20250319082245_shopifywebsite.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319082245_shopifywebsite.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250319082245_shopifywebsite.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319082245_shopifywebsite.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250319082245_shopifywebsite.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:22:45.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "x5vl5ly0.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\x5vl5ly0.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\x5vl5ly0.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\x5vl5ly0.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\x5vl5ly0.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-19T08:20:57.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20250319082051_shopifywebsite.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319082051_shopifywebsite.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250319082051_shopifywebsite.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319082051_shopifywebsite.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250319082051_shopifywebsite.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:20:51.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ojhxkovz.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\ojhxkovz.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\ojhxkovz.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\ojhxkovz.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\ojhxkovz.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-19T08:14:42.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "vfhbtbhf.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\vfhbtbhf.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\vfhbtbhf.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\vfhbtbhf.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\vfhbtbhf.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-19T08:11:39.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "pauuru1o.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\pauuru1o.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\pauuru1o.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\pauuru1o.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\pauuru1o.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-19T07:58:05.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20250319075758_ShopifyWebsite.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319075758_ShopifyWebsite.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250319075758_ShopifyWebsite.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319075758_ShopifyWebsite.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250319075758_ShopifyWebsite.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:57:58.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "24d5lgil.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\24d5lgil.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\24d5lgil.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\24d5lgil.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\24d5lgil.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-19T07:51:38.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "acrd1tiy.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\acrd1tiy.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\acrd1tiy.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\acrd1tiy.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\acrd1tiy.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-19T07:45:32.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "20250319074524_ShopifyWebsite.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319074524_ShopifyWebsite.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250319074524_ShopifyWebsite.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319074524_ShopifyWebsite.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250319074524_ShopifyWebsite.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:45:24.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "pzntsyt5.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\pzntsyt5.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\pzntsyt5.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\pzntsyt5.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\pzntsyt5.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-19T07:42:28.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20250319074222_ShopifyWebsite.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319074222_ShopifyWebsite.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250319074222_ShopifyWebsite.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319074222_ShopifyWebsite.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250319074222_ShopifyWebsite.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:42:22.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "uwkqos2c.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\uwkqos2c.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\uwkqos2c.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\uwkqos2c.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\uwkqos2c.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-19T07:37:59.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "20250319073752_ShopifyWebsitE.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319073752_ShopifyWebsitE.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250319073752_ShopifyWebsitE.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319073752_ShopifyWebsitE.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250319073752_ShopifyWebsitE.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:37:52.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ry0vjbkk.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\ry0vjbkk.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\ry0vjbkk.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\ry0vjbkk.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\ry0vjbkk.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-19T07:32:15.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "20250319073204_ShopifyWebsit.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319073204_ShopifyWebsit.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250319073204_ShopifyWebsit.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319073204_ShopifyWebsit.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250319073204_ShopifyWebsit.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:32:04.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "y0ughv5o.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\y0ughv5o.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\y0ughv5o.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\y0ughv5o.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\y0ughv5o.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-19T07:29:28.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "20250319072922_ShopifyWebsitesss.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319072922_ShopifyWebsitesss.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250319072922_ShopifyWebsitesss.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319072922_ShopifyWebsitesss.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250319072922_ShopifyWebsitesss.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:29:22.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "3j15qs3i.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\3j15qs3i.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\3j15qs3i.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\3j15qs3i.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\3j15qs3i.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-19T07:20:26.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "20250319072016_ShopifyWebsites.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319072016_ShopifyWebsites.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250319072016_ShopifyWebsites.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319072016_ShopifyWebsites.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250319072016_ShopifyWebsites.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:20:16.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "pi4wkjpn.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\pi4wkjpn.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\pi4wkjpn.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\pi4wkjpn.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\pi4wkjpn.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-19T07:12:59.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "20250319071239_ShopifyWebsite.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319071239_ShopifyWebsite.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250319071239_ShopifyWebsite.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319071239_ShopifyWebsite.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250319071239_ShopifyWebsite.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T07:12:39.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "2vkoiu53.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\2vkoiu53.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\2vkoiu53.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\2vkoiu53.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\2vkoiu53.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-19T06:52:35.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "20250319065207_shopify.cs",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319065207_shopify.cs",
+              "RelativeDocumentMoniker": "Shopfy\\Migrations\\20250319065207_shopify.cs",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Migrations\\20250319065207_shopify.cs",
+              "RelativeToolTip": "Shopfy\\Migrations\\20250319065207_shopify.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T06:52:07.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "ybg2fdme.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\ybg2fdme.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\ybg2fdme.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\ybg2fdme.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\ybg2fdme.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-12T06:19:24.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "2eovwzhc.sql",
+              "DocumentMoniker": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\2eovwzhc.sql",
+              "RelativeDocumentMoniker": "Shopfy\\obj\\Debug\\net8.0\\2eovwzhc.sql",
+              "ToolTip": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\Debug\\net8.0\\2eovwzhc.sql",
+              "RelativeToolTip": "Shopfy\\obj\\Debug\\net8.0\\2eovwzhc.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-12T06:06:17.533Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
