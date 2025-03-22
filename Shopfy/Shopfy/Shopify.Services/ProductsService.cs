@@ -34,9 +34,9 @@ namespace Shopfy.Shopify.Services
 
         public Products InsertProductsService(Products product)
         {
-      
+
             var createdProduct = _productsRepo.InsertProductsFunction(product);
-      
+
             return createdProduct;
         }
 
@@ -46,14 +46,31 @@ namespace Shopfy.Shopify.Services
 
         public async Task AddProduct(Products product)
         {
-            // Prevent SubcategoryId from changing unexpectedly
+
             await _productsRepo.AddProduct(product);
         }
 
-        public async Task<IEnumerable<Products>> GetProductsByCategoryId(int categoryId) =>
-            await _productsRepo.GetProductsByCategoryId(categoryId);
+        public async Task<IEnumerable<Products>> GetProductsByCategoryId(int categoryId)
 
+        {
+            return await _productsRepo.GetProductsByCategoryId(categoryId);
+        }
 
+        public async Task<IEnumerable<Products>> GetTrendingProducts()
+        {
+            return await _productsRepo.GetTrendingProducts();
+        }
 
+        public async Task<IEnumerable<Products>> GetNewArrivalProducts()
+        {
+            return await _productsRepo.GetNewArrivalProducts();
+        }
+
+        public async Task<IEnumerable<Products>> SearchProducts(string searchTerm)
+        {
+            return await _productsRepo.SearchProducts(searchTerm);
+
+        }
     }
+
 }

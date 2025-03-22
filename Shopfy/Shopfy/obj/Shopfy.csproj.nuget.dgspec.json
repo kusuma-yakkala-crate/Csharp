@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Shopfy.csproj": {}
+    "C:\\Users\\ctuser\\github\\Csharp\\Shopfy\\Shopfy\\Shopfy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Shopfy.csproj": {
+    "C:\\Users\\ctuser\\github\\Csharp\\Shopfy\\Shopfy\\Shopfy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Shopfy.csproj",
+        "projectUniqueName": "C:\\Users\\ctuser\\github\\Csharp\\Shopfy\\Shopfy\\Shopfy.csproj",
         "projectName": "Shopfy",
-        "projectPath": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Shopfy.csproj",
+        "projectPath": "C:\\Users\\ctuser\\github\\Csharp\\Shopfy\\Shopfy\\Shopfy.csproj",
         "packagesPath": "C:\\Users\\ctuser\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\obj\\",
+        "outputPath": "C:\\Users\\ctuser\\github\\Csharp\\Shopfy\\Shopfy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aVtaly70AuI=",
+  "dgSpecHash": "hbWPkLnRn2o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ctuser\\source\\repos\\Shopfy\\Shopfy\\Shopfy.csproj",
+  "projectFilePath": "C:\\Users\\ctuser\\github\\Csharp\\Shopfy\\Shopfy\\Shopfy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ctuser\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ctuser\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

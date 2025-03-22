@@ -2,6 +2,8 @@
 using Microsoft.AspNetCore.Mvc;
 using Shopfy.Shopify.Services;
 using Shopfy.ShopfyDomain;
+using Microsoft.AspNetCore.Http.HttpResults;
+using System;
 
 namespace Shopfy.Controllers
 {
@@ -35,21 +37,6 @@ namespace Shopfy.Controllers
             return Ok(product);
         }
 
-        //[HttpPost]
-
-        //public async Task<IActionResult> AddProduct([FromBody] Products product)
-        //{
-        //    try
-        //    {
-        //        await _productsService.AddProduct(product);
-        //        return CreatedAtAction(nameof(GetProductById), new { id = product.Id }, product);
-        //    }
-        //    catch (Exception ex)
-        //    {
-        //        return BadRequest(ex.Message);
-        //    }
-        //}
-
 
         //[HttpPost]
         //public ActionResult<Products> AddProduct(Products product)
@@ -74,12 +61,13 @@ namespace Shopfy.Controllers
 
 
         [HttpPost]
-        public ActionResult<Products> AddProduct(string productName, string image, int star, decimal newPrice, decimal oldPrice, string brand, int stock, string description,int SubCategoriesId)
+        public ActionResult<Products> AddProduct(string productName,string ProductTittle, string image, int star, decimal newPrice, decimal oldPrice, string brand, int stock, string description,string Reviewdiscription,int SalesCount, DateTime CreatedAt,int SubCategoriesId,string SubCategoriesName)
         {
          
             var product = new Products
             {
                 productName = productName,
+                ProductTittle = ProductTittle,
                 Image = image,
                 star = star,
                 NewPrice = newPrice,
@@ -87,7 +75,11 @@ namespace Shopfy.Controllers
                 brand = brand,
                 stock = stock,
                 discription = description,
-                SubCategoriesId = SubCategoriesId
+                Reviewdiscription = Reviewdiscription,
+                SalesCount = SalesCount,
+                CreatedAt = CreatedAt,
+                SubCategoriesId = SubCategoriesId,
+                SubCategoriesName = SubCategoriesName
             };
 
            
@@ -102,6 +94,35 @@ namespace Shopfy.Controllers
             return Ok(createdProduct);
         }
 
+
+        [HttpGet("trending")]
+        public async Task<IActionResult> GetTrendingProducts()
+        {
+            var products = await _productsService.GetTrendingProducts();
+            return Ok(products);
+        }
+        [HttpGet("new-arrivals")]
+        public async Task<IActionResult> GetNewArrivalProducts()
+        {
+            var products = await _productsService.GetNewArrivalProducts();
+            return Ok(products);
+        }
+
+
+        [HttpGet("search")]
+
+        public async Task<IActionResult> SearchProducts(string productName)
+
+        {
+
+            var products = await _productsService.SearchProducts(productName);
+
+            if (products == null || !products.Any())
+
+                return NotFound($"No products found for '{productName}'");
+
+            return Ok(products);
+        }
 
     }
 }

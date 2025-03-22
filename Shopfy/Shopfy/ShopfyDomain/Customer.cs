@@ -24,6 +24,8 @@ namespace Shopfy.ShopfyDomain
         public string PhoneNumber { get; set; } 
         public string Email { get; set; }
 
+        public string PasswordHash { get; set; }
+
         public virtual ICollection<Address> Addresses { get; set; }
         public virtual ICollection<Orders> Orders { get; set; }
     }
